@@ -1,0 +1,118 @@
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\appsettings.json
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.exe
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.deps.json
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.runtimeconfig.json
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.runtimeconfig.dev.json
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ref\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.pdb
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.csproj.AssemblyReference.cache
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.AssemblyInfoInputs.cache
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.AssemblyInfo.cs
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.csproj.CoreCompileInputs.cache
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\staticwebassets\ApiContact.StaticWebAssets.Manifest.cache
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\staticwebassets\ApiContact.StaticWebAssets.xml
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\scopedcss\bundle\ApiContact.styles.css
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.RazorTargetAssemblyInfo.cache
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.csproj.CopyComplete
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ref\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.pdb
+C:\Users\Egor.Nehaenko\source\repos\Career goals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.genruntimeconfig.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\appsettings.json
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.exe
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.deps.json
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.runtimeconfig.json
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.runtimeconfig.dev.json
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ref\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\ApiContact.pdb
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.csproj.AssemblyReference.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.AssemblyInfoInputs.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.AssemblyInfo.cs
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.csproj.CoreCompileInputs.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\staticwebassets\ApiContact.StaticWebAssets.Manifest.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\staticwebassets\ApiContact.StaticWebAssets.xml
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\scopedcss\bundle\ApiContact.styles.css
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.RazorTargetAssemblyInfo.cache
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.csproj.CopyComplete
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ref\ApiContact.dll
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.pdb
+C:\Users\Egor.Nehaenko\source\repos\CareerGoals\ApiContact\ApiContact\obj\Debug\net5.0\ApiContact.genruntimeconfig.cache
